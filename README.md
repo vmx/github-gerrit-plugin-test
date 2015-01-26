@@ -1,2 +1,2 @@
 # github-gerrit-plugin-test
-This is a repository to tes the Gerrit Github plugin
+This is a repository to test the Gerrit Github plugin
